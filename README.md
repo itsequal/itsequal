@@ -4,7 +4,7 @@ I’m [**Oskar**](https://linkedin.com/in/oskarrolon), a fullstack developer bas
 
 I love turning ideas into lightning-fast, accessible code in different languages.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
 
 Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing [blog posts](https://mirayatech.hashnode.dev/) and sharing tech-related content on social media (over 130K combined followers and counting).
 
