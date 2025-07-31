@@ -2,7 +2,7 @@
 
 I’m [**Oskar**](https://linkedin.com/in/oskarrolon), a fullstack developer based in México .
 
-I love turning ideas into lightning-fast, accessible code in different languages.
+I love turning ideas into lightning-fast, accessible code in different languages and stacks.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,react,vue&theme=light)](https://skillicons.dev)
 
