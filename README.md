@@ -16,4 +16,5 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 
 Projects:
 
-<img src="https://raw.githubusercontent.com/itsequal/todo-list/main/Beautiful_screenshot.png" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/itsequal/todo-list/main/Beautiful_screenshot.png" width=30% height=30%>
+Todo List (Vue)
