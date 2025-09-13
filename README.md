@@ -20,4 +20,5 @@ Some Projects:
 <a href="https://github.com/itsequal/todo-list">
 <img src="https://raw.githubusercontent.com/itsequal/todo-list/main/Beautiful_screenshot.png" alt="https://github.com/itsequal/todo-list" width=30% height=30%>
 </a>
+
 Todo List (Vue)
