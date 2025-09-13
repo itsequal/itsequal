@@ -12,3 +12,7 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 
 * I love coffee and tea.
 * Demon Slayer is my favorite anime.
+
+
+Projects:
+![ezcv logo](https://raw.githubusercontent.com/itsequal/todo-list/main/Beautiful_screenshot.png)
