@@ -17,7 +17,7 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 Some Projects:
 
 
-<a href="[https://www.w3schools.com](https://github.com/itsequal/todo-list)">
+<a href="https://github.com/itsequal/todo-list">
 <img src="https://raw.githubusercontent.com/itsequal/todo-list/main/Beautiful_screenshot.png" alt="https://github.com/itsequal/todo-list" width=30% height=30%>
 </a>
 Todo List (Vue)
