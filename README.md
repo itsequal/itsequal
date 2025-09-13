@@ -15,4 +15,4 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 
 
 Projects:
-![To do List](https://raw.githubusercontent.com/itsequal/todo-list/main/Beautiful_screenshot.png)
+<img src="[https://github.com/favicon.ico](https://raw.githubusercontent.com/itsequal/todo-list/main/Beautiful_screenshot.png)" width="48">
