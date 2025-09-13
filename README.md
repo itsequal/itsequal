@@ -14,7 +14,7 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 * Demon Slayer is my favorite anime.
 
 
-Projects:
+Some Projects:
 
 <img src="https://raw.githubusercontent.com/itsequal/todo-list/main/Beautiful_screenshot.png" width=30% height=30%>
 Todo List (Vue)
